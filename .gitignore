@@ -1,0 +1,10 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Arquivos do sistema
+__pycache__/
+*.pyc
+
+# Banco de dados local (opcional)
+*.db
